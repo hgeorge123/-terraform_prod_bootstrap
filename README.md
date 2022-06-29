@@ -62,10 +62,6 @@ terraform {
 }
 ```
 
-## Author:
-
-- [@JManzur](https://jmanzur.com)
-
 ## Documentation:
 
 - [Terraform Settings > Backends > S3](https://www.terraform.io/language/settings/backends/s3)
